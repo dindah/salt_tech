@@ -1,0 +1,39 @@
+.padMenu {
+    padding: 0;
+    margin: 0;
+}
+
+.ContainerHome{
+    padding: 25px;
+    max-width: 100%;
+}
+
+.segitiga1{
+    height:50em;
+    width:0px;
+    border-left:solid 89em #4097DB;
+    border-top:solid 16em transparent;
+    
+    margin-bottom: 2em;
+    position: absolute;
+    top: 41em
+}
+
+.segitiga2{
+    height:50em;
+    width:0px;
+    border-right:solid 89em #53A7E9;
+    border-top:solid 24em transparent;
+    
+    margin-bottom: 2em;
+    position: absolute;
+    top: 41em
+}
+
+.backgroundCompany{
+    background-image: url("../../public/asset/backgroundCompany1.png"); 
+}
+
+.rowSquare{
+    align-items: center;
+}
